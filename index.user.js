@@ -15,6 +15,8 @@
 // @match                *://www.freecodecamp.org/*/learn/*
 // @license              MIT
 // @grant                none
+// @downloadURL          https://update.greasyfork.org/scripts/494247/FreeCodeCamp%20No%20Donation%20Pop-up.user.js
+// @updateURL            https://update.greasyfork.org/scripts/494247/FreeCodeCamp%20No%20Donation%20Pop-up.meta.js
 // ==/UserScript==
 
 (function() {
